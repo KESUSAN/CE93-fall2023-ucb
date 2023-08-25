@@ -11,4 +11,4 @@ https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithu
 
 e.g. for lab01 (lab02 with label):
 
-https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FKESUSAN%2FCE93-fall2023-ucb&branch=main&urlpath=tree%2FCE93-fall2023-ucb%2FLab02%2FLab02-Numerical_and_Graphical_Summaries.ipynb
+https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FKESUSAN%2FCE93-fall2023-ucb&branch=main&urlpath=tree%2FCE93-fall2023-ucb%2FLab01%2FLab01-Numerical_and_Graphical_Summaries.ipynb
